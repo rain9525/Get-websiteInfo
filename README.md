@@ -1,2 +1,3 @@
 # Get-websiteInfo
-This is Google Chrome Extention.
+Chrome拡張機能勉強用に作成。
+マークをクリックすると、開いているページ情報を参考文献として引用できる形にしてクリップボードに貼り付けます。
